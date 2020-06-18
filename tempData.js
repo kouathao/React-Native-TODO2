@@ -11,7 +11,7 @@ export default tempData = [
       },
       {
         title: "Passport Check",
-        completed: true,
+        completed: false,
       },
       {
         title: "Reserve Hotel Room",
